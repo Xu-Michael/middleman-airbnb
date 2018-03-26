@@ -1,0 +1,30 @@
+.flat-panel {
+  display: flex;
+  align-items: center;
+  padding: 20px !important;
+}
+
+.flat-description {
+  flex: 1 1 450px;
+}
+
+.owner-avatar {
+  flex: 0 0 20%;
+}
+
+.flat-rating {
+  flex: 0 0 10%;
+}
+
+.flat-booking {
+  margin: 20px 0;
+  margin-right: 0;
+  background: $light-gray;
+  padding: 15px;
+  border-radius: 3px;
+
+  h4 {
+    color: $gray;
+    margin-bottom: 20px;
+  }
+}
