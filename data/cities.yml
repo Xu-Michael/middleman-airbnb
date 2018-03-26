@@ -1,0 +1,8 @@
+- name: 'shanghai'
+  driver: 'tgenaitay'
+- name: 'copenhagen'
+  driver: 'atmosfeer'
+- name: 'lisbon'
+  driver: 'graysdays'
+- name: 'sao-paulo'
+  driver: 'matleroux'
